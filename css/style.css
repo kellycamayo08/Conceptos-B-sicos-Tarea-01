@@ -1,0 +1,15 @@
+body {
+    background: #f3f4f5;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 24px;
+    color: black;
+    text-align: center;
+}
+p, h3, ul, h4 {
+    font-family: Georgia;
+    font-size: 18px;
+    color: #757575;
+}
